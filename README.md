@@ -1,7 +1,7 @@
 # World-Minimum-Wage-and-USA-State-Expenditure---Choropleth-Maps
 A showcase of Choropleth Maps using World Minimum Wage and USA State Expenditure data
 
-Dataset: KFF, OECD
+Dataset: KFF, OECD (uploaded to the repository)
 
 The objective was to showcase the wonderful choropleth maps and its applicability in data visualization.
 Python was used to read, clean, and store two CSV files and NumPy, Pandas, and Plotly were used to provide data visualization.
