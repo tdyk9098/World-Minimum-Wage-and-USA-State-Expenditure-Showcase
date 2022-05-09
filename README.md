@@ -1,4 +1,4 @@
-# World-Minimum-Wage-and-USA-State-Expenditure---Choropleth-Maps
+# World-Minimum-Wage-and-USA-State-Expenditure-Choropleth-Maps
 A showcase of Choropleth Maps using World Minimum Wage and USA State Expenditure data
 
 Dataset: KFF, OECD (uploaded to the repository)
